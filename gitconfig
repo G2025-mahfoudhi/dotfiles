@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ghzelamahfoudhi@yahoo.fr
+	name = Mahfoudhi Ghzela
